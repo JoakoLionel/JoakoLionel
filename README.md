@@ -1,4 +1,4 @@
-# Hola, soy Joako 👋
+# Hola, soy Joaquin
 
 Soy desarrollador principiante en formación, con interés en el desarrollo web. Uso este perfil para compartir ejercicios y prototipos que forman parte de mi aprendizaje.
 
